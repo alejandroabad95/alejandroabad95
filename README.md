@@ -56,6 +56,7 @@
   </a>
   <!-- Material UI -->
   <a href="https://material-ui.com/" target="_blank" rel="noopener noreferrer"> 
-    <img src="https://material-ui.com/static/logo_raw.svg" alt="Material UI" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" height="40"/> 
   </a>
+
 </p>
